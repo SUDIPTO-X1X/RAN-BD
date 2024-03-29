@@ -1,4 +1,3 @@
-#COMAND
 
 ```python
 rm -rf RAN-BD
