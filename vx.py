@@ -1,5 +1,6 @@
 import os
-
-os.system("pip uninstall requests -y")
-os.system("pip install requests")
+os.system("git pull")
+os.system("pip uninstall httpx -y")
+os.system("pip install httpx)
+          
 import randomm
