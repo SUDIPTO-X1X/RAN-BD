@@ -1,0 +1,2 @@
+https://touch.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8
+https://touch.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
